@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Selamat Ulang Tahun, Cantikku Tiara</title>
+  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Open+Sans&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Open Sans', sans-serif;
+      background: linear-gradient(to bottom right, #ffe0ec, #ffffff);
+      color: #333;
+      text-align: center;
+    }
+    h1 {
+      font-family: 'Great Vibes', cursive;
+      font-size: 3em;
+      color: #d6336c;
+      margin-top: 40px;
+    }
+    .poem {
+      max-width: 600px;
+      margin: 30px auto;
+      font-size: 1.2em;
+      line-height: 1.6;
+    }
+    .image-gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+      padding: 30px;
+    }
+    .image-gallery img {
+      width: 100%;
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    footer {
+      margin: 50px 0;
+      font-style: italic;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <h1>Selamat Ulang Tahun, Cantikku Tiara 🌸</h1>
+  <div class="poem">
+    <p>Di hari spesial ini,<br>
+    aku ingin dunia tahu,<br>
+    ada satu bintang yang lahir<br>
+    dan terus bersinar dalam hidupku.</p>
+
+    <p>Kau adalah tawa dalam hariku,<br>
+    peluk hangat di lelahku,<br>
+    doa yang kusebut dalam diam,<br>
+    dan cinta yang tak pernah padam.</p>
+
+    <p>Selamat ulang tahun, cantikku.<br>
+    Semoga langkahmu penuh berkah,<br>
+    senyummu tak pernah pudar,<br>
+    dan cintamu… tetap untukku saja.</p>
+
+    <p>Aku mencintaimu,<br>
+    hari ini, esok,<br>
+    dan selamanya.</p>
+
+    <p>— dari seseorang yang selalu mencintaimu 💌</p>
+  </div>
+
+  <div class="image-gallery">
+    <img src="Gambar1.jpg" alt="Foto Tiara 1">
+    <img src="Gambar2.jpg" alt="Foto Tiara 2">
+    <img src="Gambar3.jpg" alt="Foto Tiara 3">
+    <img src="Gambar4.jpg" alt="Foto Tiara 4">
+    <img src="Gambar5.jpg" alt="Foto Tiara 5">
+    <img src="Gambar6.jpg" alt="Foto Tiara 6">
+  </div>
+
+  <footer>
+    Dengan penuh cinta, dari seseorang yang beruntung memilikimu 💖
+  </footer>
+</body>
+</html>
