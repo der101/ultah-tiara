@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Selamat Ulang Tahun, Sayangku</title>
+  <link href="https://fonts.googleapis.com/css2?family=Sacramento&family=Open+Sans&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(to right, #ffd6e0, #ffe8f0);
+      font-family: 'Open Sans', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      text-align: center;
+      overflow: hidden;
+    }
+    .card {
+      background: white;
+      padding: 2rem;
+      border-radius: 20px;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+      max-width: 500px;
+    }
+    h1 {
+      font-family: 'Sacramento', cursive;
+      font-size: 3rem;
+      color: #ff5e7e;
+    }
+    p {
+      font-size: 1.1rem;
+      color: #444;
+    }
+    .footer {
+      margin-top: 1.5rem;
+      font-style: italic;
+      color: #888;
+    }
+    .confetti {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+      z-index: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="confetti">
+    <!-- Optional: Add confetti animation here later -->
+  </div>
+  <div class="card">
+    <h1>Selamat Ulang Tahun, Sayangku Tiara 💖</h1>
+    <p>
+      Hari ini adalah hari yang sangat spesial, karena seseorang yang paling aku cintai dilahirkan ke dunia.
+      Terima kasih telah hadir dalam hidupku dan membuat semuanya terasa lebih indah.
+    </p>
+    <p>
+      Semoga semua harapanmu terkabul, langkahmu selalu dimudahkan, dan kebahagiaan selalu menyertaimu.
+      Aku beruntung bisa memilikimu.💫
+    </p>
+    <div class="footer">Dari seseorang yang selalu mencintaimu 🌹</div>
+  </div>
+</body>
+</html>
